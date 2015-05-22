@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background_color">#000000</color>	<!-- Black -->
+    <color name="color_ghostwhite">#F8F8FF</color>	<!-- GhostWhite -->
+    <color name="color_yellow">#FFFF00</color>	<!-- Yellow -->
+
+</resources>
