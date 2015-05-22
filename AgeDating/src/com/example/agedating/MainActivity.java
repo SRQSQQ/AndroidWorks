@@ -51,8 +51,7 @@ public class MainActivity extends Activity {
 				
 				Intent intent = new Intent(MainActivity.this, DatingActivity.class);
 				intent.putExtra("fileSrc", fileSrc);
-				startActivity(intent);
-				finish();
+				startActivity(intent);				
 			}			
 		}
 	}
